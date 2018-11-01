@@ -1,0 +1,12 @@
+Michel:Police
+Jean:Patrick
+cODEUR:Micalsdq
+admin:admin
+Michel:administrateur
+Samuel:Guerrier
+Numerique:Numerique
+password:azerty123456
+michel:admin
+php:77777
+c++:invisible
+ 
