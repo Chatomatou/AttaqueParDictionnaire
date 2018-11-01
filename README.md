@@ -21,7 +21,9 @@ python script.py
 # Page web 
 
 Ajouter les fichier dans le htdoc de votre xampp : C:\xampp\htdocs
+
 Ajouter les fichier dans le htdoc de votre serveur apache : C:\wamp\Apache24\htdocs
+
 Ajouter les fichier dans le www de votre repertoire www : etc/www/
 
 # Screenshot 
