@@ -25,7 +25,7 @@ Ajouter les fichier dans le htdoc de votre serveur apache : C:\wamp\Apache24\htd
 Ajouter les fichier dans le www de votre repertoire www : etc/www/
 
 # Screenshot 
-[!alt text](http://image.noelshack.com/fichiers/2018/44/4/1541033777-1.png)
-[!alt text](http://image.noelshack.com/fichiers/2018/44/4/1541033777-2.png)
-[!alt text](http://image.noelshack.com/fichiers/2018/44/4/1541033777-3.png)
-[!alt text](http://image.noelshack.com/fichiers/2018/44/4/1541033777-4.png)
+![alt text](http://image.noelshack.com/fichiers/2018/44/4/1541033777-1.png)
+![alt text](http://image.noelshack.com/fichiers/2018/44/4/1541033777-2.png)
+![alt text](http://image.noelshack.com/fichiers/2018/44/4/1541033777-3.png)
+![alt text](http://image.noelshack.com/fichiers/2018/44/4/1541033777-4.png)
